@@ -7,7 +7,11 @@
     "build": "tsc",
     "test": "mocha --reporter spec"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syanfeng/scotter.git"
+  },
+  "author": "sunyanfeng",
   "license": "ISC",
   "keywords": [
     "typescript"
